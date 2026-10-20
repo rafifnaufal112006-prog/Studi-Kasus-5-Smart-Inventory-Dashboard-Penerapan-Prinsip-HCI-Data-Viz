@@ -1,1 +1,2 @@
-# Studi-Kasus-5-Smart-Inventory-Dashboard-Penerapan-Prinsip-HCI-Data-Viz
+# Studi Kasus 5 Smart Inventory Dashboard Penerapan Prinsip HCI Data Viz
+Smart Inventory Dashboard adalah aplikasi pemantauan stok barang interaktif berbasis prinsip Human-Computer Interaction (HCI) dan visualisasi data yang dirancang untuk meminimalkan beban kognitif pengguna. Mengusung prinsip "Overview first, zoom and filter, then details on demand", sistem ini menyajikan ringkasan indikator stok kritis secara visual, fitur filter yang responsif, serta visualisasi data yang efisien dan intuitif sesuai standar kebergunaan (usability heuristics).
